@@ -1,6 +1,6 @@
 """
-labeler2.py
-Improfved interactive docket entry labeler
+labeler.py
+Improved interactive docket entry labeler
 Adds to labeled.csv.
 Press Ctrl-D to quit.
 """
