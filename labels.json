@@ -1,0 +1,9 @@
+{
+    "P": "pleading",
+    "M": "motion",
+    "D": "declaration",
+    "J": "judgment",
+    "O": "order",
+    "V": "pro hac vice",
+    "": "other"
+}

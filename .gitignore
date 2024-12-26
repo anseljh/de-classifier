@@ -161,3 +161,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+output.csv
+labeled.json
+labeled-backup.xlsx
+labeled-1.csv
+labeled-backup.csv
+options.json
+response.json
+response.json.html
