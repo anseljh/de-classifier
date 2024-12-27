@@ -36,26 +36,30 @@ def instruct():
 def load_existing():
     global dataset, knowns
     rows = None
-    with open(OUTPUT_CSV_FN, "r") as f:
-        reader = csv.reader(f)
-        rows = [row for row in reader]
-    row_n = 0
-    for row in rows:
-        row_n += 1
-        if row_n == 1:  # skip header row
-            continue
-        else:
-            de_id, doc_id, description, label = row
-            dataset[de_id] = {
-                "doc_id": doc_id,
-                "description": description,
-                "label": label,
-            }
-            upperized = description.upper()
-            if upperized not in knowns:
-                knowns[upperized] = label
-    print(f"Loaded existing labeled data: {row_n} rows.")
-    return
+    try:
+        with open(OUTPUT_CSV_FN, "r") as f:
+            reader = csv.reader(f)
+            rows = [row for row in reader]
+        row_n = 0
+        for row in rows:
+            row_n += 1
+            if row_n == 1:  # skip header row
+                continue
+            else:
+                de_id, doc_id, description, label = row
+                dataset[de_id] = {
+                    "doc_id": doc_id,
+                    "description": description,
+                    "label": label,
+                }
+                upperized = description.upper()
+                if upperized not in knowns:
+                    knowns[upperized] = label
+        print(f"Loaded existing labeled data: {row_n} rows.")
+        return
+    except FileNotFoundError:
+        print("No dataset file found.")
+        return
 
 
 class Fetcher:
@@ -73,12 +77,19 @@ class Fetcher:
                 # Each item looks like:
                 # https://www.courtlistener.com/api/rest/v4/docket-entries/411065279/
                 de_id = result["id"]
-                if not "recap_documents" in result:
-                    continue
-                # implicit else
-                for doc in result["recap_documents"]:
-                    description = doc["description"]
-                    doc_id = doc["id"]
+                doc_id = None
+                description = result["description"]
+                
+                # Check sub-items if description is empty
+                if description == "":
+                    if not "recap_documents" in result:
+                        continue
+                    else:
+                        for doc in result["recap_documents"]:
+                            description = doc["description"]
+                            doc_id = doc["id"]
+                            self.entries.append([de_id, doc_id, description])
+                else:
                     self.entries.append([de_id, doc_id, description])
 
         return self.entries.pop()
