@@ -533,7 +533,7 @@ Docket Entry ID,Document ID,Description,Label
 411972371,425207305,Certification of Debtor Education,other
 411972372,425207306,Certificate of Service,other
 411972373,425207307,Notice of Hearing,other
-411972374,425207308,Declaration,other
+411972374,425207308,Declaration,declaration
 411972375,425207309,Personal Financial Management Course Certificate,other
 411972376,425207310,Sell Property Free and Clear Under Section 363(f),other
 411972377,425207311,Reinstate Case,other
@@ -555,7 +555,7 @@ Docket Entry ID,Document ID,Description,Label
 411972353,425207258,Waiver of Presentence Investigation Report,other
 411972354,425207259,Terminate Case,other
 411972355,425207260,Transcript,other
-411972356,425207261,Declaration of Publication,other
+411972356,425207261,Declaration of Publication,declaration
 411972357,425207262,Response/Briefing Schedule,other
 411972358,425207266,Response in Opposition to Motion,motion
 411972359,425207267,Witness List and Exhibits,other
@@ -808,7 +808,7 @@ Docket Entry ID,Document ID,Description,Label
 411972086,425206366,Statement in Support of Probable Cause,other
 411972087,425206367,Proposed Complaint,other
 411972088,425206368,Other Notice,other
-411972089,425206369,Affidavit for Material Witness,other
+411972089,425206369,Affidavit for Material Witness,declaration
 411972090,425206370,Statement in Support of Probable Cause,other
 411972091,425206371,Proposed Complaint,other
 411972092,425206372,Miscellaneous Relief,other
@@ -1028,14 +1028,14 @@ Docket Entry ID,Document ID,Description,Label
 411971866,425205835,Statement in Support of Probable Cause,other
 411971867,425205837,Proposed Complaint,other
 411971868,425205838,Proposed Complaint,other
-411971869,425205841,Affidavit for Material Witness,other
+411971869,425205841,Affidavit for Material Witness,declaration
 411971870,425205843,Statement in Support of Probable Cause,other
 411971871,425205845,Proposed Complaint,other
 411971872,425205847,Statement in Support of Probable Cause,other
 411971873,425205849,Proposed Complaint,other
 411971874,425205852,Statement in Support of Probable Cause,other
 411971875,425205854,Proposed Complaint,other
-411971876,425205856,Affidavit for Material Witness,other
+411971876,425205856,Affidavit for Material Witness,declaration
 411971877,425205859,Statement in Support of Probable Cause,other
 411971878,425205861,Proposed Complaint,other
 411971879,425205864,Statement in Support of Probable Cause,other
@@ -1054,7 +1054,7 @@ Docket Entry ID,Document ID,Description,Label
 411971852,425205687,Voluntary Petition Chapter 7 - Case Upload,pleading
 411971853,425205688,Withdrawal,other
 411971854,425205689,Statement,other
-411971855,425205690,Declaration,other
+411971855,425205690,Declaration,declaration
 411971856,425205691,Status report,other
 411971857,425205692,Objection,other
 411971858,425205693,Notice of Appearance and Request for Notice,other
@@ -1241,7 +1241,7 @@ Docket Entry ID,Document ID,Description,Label
 411971690,425204768,Notice of Requirement to Complete Course in Financial Management (Auto VAN-105) (BNC),other
 411971651,425204729,Compensation,other
 411971652,425204730,Compensation,other
-411971653,425204731,Declaration,other
+411971653,425204731,Declaration,declaration
 411971654,425204732,Letter,other
 411971655,425204733,Amended Complaint,pleading
 411971656,425204734,Stipulation of Dismissal,other
@@ -1277,7 +1277,7 @@ Docket Entry ID,Document ID,Description,Label
 411971646,425204724,Compensation,other
 411971647,425204725,Dismiss,other
 411971648,425204726,Compensation,other
-411971649,425204727,Declaration About an Individual Debtor(s) Schedules AND Schedules A-J AND Statement of Attorney for Debtor(s) Pursuant to F.R.Bankr.P.2016(b) AND Statement of Financial Affairs AND Summary of Assets and Liabilities,other
+411971649,425204727,Declaration About an Individual Debtor(s) Schedules AND Schedules A-J AND Statement of Attorney for Debtor(s) Pursuant to F.R.Bankr.P.2016(b) AND Statement of Financial Affairs AND Summary of Assets and Liabilities,declaration
 411971650,425204728,Compensation,other
 411971611,425204666,,other
 411971612,425204667,,other
@@ -1501,7 +1501,7 @@ Docket Entry ID,Document ID,Description,Label
 411971430,425204426,Personal Financial Mgt Course Certificate,other
 411971391,425204386,Personal Financial Management Course Certificate,other
 411971392,425204388,Chapter 7 Trustee's Report of No Distribution - No Funds,other
-411971393,425204387,Declaration for Electronic Filing,other
+411971393,425204387,Declaration for Electronic Filing,declaration
 411971394,425204389,Debtor's Chapter 13 Confirmation Hearing Certificate,other
 411971395,425204391,Disclosure of Compensation of Attorney for Debtor,other
 411971396,425204390,Chapter 7 Trustee's Report of No Distribution - No Funds,other
@@ -5593,3 +5593,443 @@ Docket Entry ID,Document ID,Description,Label
 411987130,425223472,BNC Certificate of Notice,other
 411987131,425223473,BNC Certificate of Notice - PDF Document,other
 411987132,425223474,BNC Certificate Of Mailing,other
+412060133,425312530,,other
+412060134,425312531,,other
+412060135,425312532,,other
+412060136,425312533,,other
+412060137,425312548,"Proposed Summons Proposed Summonses for ATM Mgmt LLC and 655 Nassau, LLC",other
+412060138,425312536,,other
+412060139,425312537,,other
+412060140,425312538,,other
+412060141,425312539,,other
+412060142,425312540,,other
+412060143,425312541,,other
+412060144,425312543,Certificate of Service,other
+412060145,425312542,,other
+412060146,425312544,,other
+412060147,425312545,,other
+412060148,425312546,,other
+412060149,425312554,Notice to Debtor Regarding Certification of Plan Completion (FINAL NOTICE),other
+412060150,425312555,Notice to Debtor Regarding Certification of Plan Completion (FINAL NOTICE),other
+412060151,425312556,Notice to Debtor Regarding Certification of Plan Completion (FINAL NOTICE),other
+412060152,425312557,Notice to Debtor Regarding Certification of Plan Completion (FINAL NOTICE),other
+412060113,425312490,,other
+412060114,425312491,,other
+412060115,425312492,,other
+412060116,425312510,Civil Cover Sheet,other
+412060117,425312509,,other
+412060118,425312513,,other
+412060119,425312514,,other
+412060120,425312515,,other
+412060121,425312516,,other
+412060122,425312517,,other
+412060123,425312518,,other
+412060124,425312519,,other
+412060125,425312520,,other
+412060126,425312521,,other
+412060127,425312522,,other
+412060128,425312523,,other
+412060129,425312524,,other
+412060130,425312525,,other
+412060131,425312526,,other
+412060132,425312529,,other
+412060093,425312468,,other
+412060094,425312472,Civil Cover Sheet,other
+412060095,425312470,,other
+412060096,425312471,,other
+412060097,425312473,,other
+412060098,425312474,,other
+412060099,425312475,,other
+412060100,425312476,,other
+412060101,425312477,,other
+412060102,425312478,,other
+412060103,425312479,,other
+412060104,425312480,,other
+412060105,425312481,,other
+412060106,425312482,,other
+412060107,425312483,,other
+412060108,425312484,,other
+412060109,425312485,,other
+412060110,425312487,Civil Cover Sheet,other
+412060111,425312493,Civil Cover Sheet,other
+412060112,425312489,,other
+412060073,425312452,Exhibit B,other
+412060074,425312444,,other
+412060075,425312445,,other
+412060076,425312446,,other
+412060077,425312447,,other
+412060078,425312448,,other
+412060079,425312449,,other
+412060080,425312455,,other
+412060081,425312456,,other
+412060082,425312457,,other
+412060083,425312458,,other
+412060084,425312459,,other
+412060085,425312460,,other
+412060086,425312461,,other
+412060087,425312462,,other
+412060088,425312463,,other
+412060089,425312464,,other
+412060090,425312465,,other
+412060091,425312466,,other
+412060092,425312467,,other
+412060053,425312416,Certificate of Service,other
+412060054,425312417,Notice of Lodgment,other
+412060055,425312418,Certificate of Credit Counseling (Per Part 5 of Voluntary Petition),other
+412060056,425312419,Meeting of Creditors Chapter 7 (No Asset) (I/J No POC) (309A) (AutoAssign),other
+412060057,425312420,Auto Assign Meeting of Creditors-Ch 13,other
+412060058,425312421,Auto Assign Meeting of Creditors-Ch 13,other
+412060059,425312422,Auto Assign Meeting of Creditors- Ch 7 Corp. No Asset,other
+412060060,425312424,Declaration by Debtor as to Whether Db Received Income From an Employer  (LBR Form F1002-1),declaration
+412060061,425312423,Auto Assign Meeting of Creditors-Ch 7 Indiv. No Asset,other
+412060062,425312425,Statement About Your Social Security Number (Official Form 121),other
+412060063,425312426,Voluntary Petition (Chapter 7),pleading
+412060064,425312427,,other
+412060065,425312428,,other
+412060066,425312429,Sentencing Memorandum ,other
+412060067,425312433,,other
+412060068,425312434,,other
+412060069,425312442,Exhibit,other
+412060070,425312438,,other
+412060071,425312439,,other
+412060072,425312440,,other
+412060033,425312378,Close Bankruptcy Case,other
+412060034,425312379,Auto Discharge of Debtor(s) [Ch 7,other
+412060035,425312380,Close Bankruptcy Case,other
+412060036,425312381,Auto Discharge of Debtor(s) [Ch 7,other
+412060037,425312383,Auto Discharge of Debtor(s) [Ch 7,other
+412060038,425312382,Close Bankruptcy Case,other
+412060039,425312384,Auto Discharge of Debtor(s) [Ch 7,other
+412060040,425312385,Close Bankruptcy Case,other
+412060041,425312386,Auto Discharge of Debtor(s) [Ch 7,other
+412060042,425312387,Close Bankruptcy Case,other
+412060043,425312388,Close Bankruptcy Case,other
+412060044,425312389,Close Bankruptcy Case,other
+412060045,425312390,Close Bankruptcy Case,other
+412060046,425312391,Close Bankruptcy Case,other
+412060047,425312392,Close Bankruptcy Case,other
+412060048,425312393,Close Bankruptcy Case,other
+412060049,425312394,Close Bankruptcy Case,other
+412060050,425312395,Close Bankruptcy Case,other
+412060051,425312396,Failure to Submit Tax Returns,other
+412060052,425312415,Meeting of Creditors 7 (No Asset),other
+412060013,425312358,Auto Discharge of Debtor(s) [Ch 7,other
+412060014,425312359,Meeting of Creditors 13,other
+412060015,425312360,Close Bankruptcy Case,other
+412060016,425312361,Auto Discharge of Debtor(s) [Ch 7,other
+412060017,425312362,Meeting of Creditors 7 (Asset Corporation),other
+412060018,425312363,Auto Discharge of Debtor(s) [Ch 7,other
+412060019,425312364,none,other
+412060020,425312365,Auto Discharge of Debtor(s) [Ch 7,other
+412060021,425312366,Close Bankruptcy Case,other
+412060022,425312367,Auto Discharge of Debtor(s) [Ch 7,other
+412060023,425312368,Auto Discharge of Debtor(s) [Ch 7,other
+412060024,425312369,Close Bankruptcy Case,other
+412060025,425312370,Personal Financial Management Course Certificate,other
+412060026,425312371,Auto Discharge of Debtor(s) [Ch 7,other
+412060027,425312372,Auto Discharge of Debtor(s) [Ch 7,other
+412060028,425312373,Close Bankruptcy Case,other
+412060029,425312374,Auto Discharge of Debtor(s) [Ch 7,other
+412060030,425312375,Auto Discharge of Debtor(s) [Ch 7,other
+412060031,425312376,Close Bankruptcy Case,other
+412060032,425312377,Auto Discharge of Debtor(s) [Ch 7,other
+412059993,425312338,Auto Discharge of Debtor(s) [Ch 7,other
+412059994,425312339,Auto Discharge of Debtor(s) [Ch 7,other
+412059995,425312340,Auto Discharge of Debtor(s) [Ch 7,other
+412059996,425312341,Close Bankruptcy Case,other
+412059997,425312342,Close Bankruptcy Case,other
+412059998,425312343,Auto Discharge of Debtor(s) [Ch 7,other
+412059999,425312344,Close Bankruptcy Case,other
+412060000,425312345,Auto Discharge of Debtor(s) [Ch 7,other
+412060001,425312346,Auto Discharge of Debtor(s) [Ch 7,other
+412060002,425312347,Close Bankruptcy Case,other
+412060003,425312348,Auto Discharge of Debtor(s) [Ch 7,other
+412060004,425312349,Auto Discharge of Debtor(s) [Ch 7,other
+412060005,425312350,Auto Discharge of Debtor(s) [Ch 7,other
+412060006,425312351,Close Bankruptcy Case,other
+412060007,425312352,Auto Discharge of Debtor(s) [Ch 7,other
+412060008,425312353,Auto Discharge of Debtor(s) [Ch 7,other
+412060009,425312354,Auto Discharge of Debtor(s) [Ch 7,other
+412060010,425312355,Close Bankruptcy Case,other
+412060011,425312356,Auto Discharge of Debtor(s) [Ch 7,other
+412060012,425312357,Continue,other
+412059973,425312318,Close Bankruptcy Case,other
+412059974,425312319,Auto Discharge of Debtor(s) [Ch 7,other
+412059975,425312320,Auto Discharge of Debtor(s) [Ch 7,other
+412059976,425312321,Close Bankruptcy Case,other
+412059977,425312322,Auto Discharge of Debtor(s) [Ch 7,other
+412059978,425312323,Auto Discharge of Debtor(s) [Ch 7,other
+412059979,425312324,Auto Discharge of Debtor(s) [Ch 7,other
+412059980,425312325,Close Bankruptcy Case,other
+412059981,425312326,Auto Discharge of Debtor(s) [Ch 7,other
+412059982,425312327,Auto Discharge of Debtor(s) [Ch 7,other
+412059983,425312328,Auto Discharge of Debtor(s) [Ch 7,other
+412059984,425312329,Close Bankruptcy Case,other
+412059985,425312330,Auto Discharge of Debtor(s) [Ch 7,other
+412059986,425312332,Auto Discharge of Debtor(s) [Ch 7,other
+412059987,425312331,Order Discharging Trustee And Closing Estate (Chap. 7),other
+412059988,425312333,Auto Discharge of Debtor(s) [Ch 7,other
+412059989,425312334,Close Bankruptcy Case,other
+412059990,425312335,Auto Discharge of Debtor(s) [Ch 7,other
+412059991,425312336,Auto Discharge of Debtor(s) [Ch 7,other
+412059992,425312337,Close Bankruptcy Case,other
+412059953,425312298,Close Bankruptcy Case,other
+412059954,425312299,Auto Discharge of Debtor(s) [Ch 7,other
+412059955,425312300,Auto Discharge of Debtor(s) [Ch 7,other
+412059956,425312301,Close Bankruptcy Case,other
+412059957,425312302,Auto Discharge of Debtor(s) [Ch 7,other
+412059958,425312303,Auto Discharge of Debtor(s) [Ch 7,other
+412059959,425312304,Auto Discharge of Debtor(s) [Ch 7,other
+412059960,425312305,Close Bankruptcy Case,other
+412059961,425312306,Auto Discharge of Debtor(s) [Ch 7,other
+412059962,425312307,Auto Discharge of Debtor(s) [Ch 7,other
+412059963,425312308,Close Bankruptcy Case,other
+412059964,425312309,Auto Discharge of Debtor(s) [Ch 7,other
+412059965,425312310,Auto Discharge of Debtor(s) [Ch 7,other
+412059966,425312311,Close Bankruptcy Case,other
+412059967,425312312,Auto Discharge of Debtor(s) [Ch 7,other
+412059968,425312313,Auto Discharge of Debtor(s) [Ch 7,other
+412059969,425312314,Close Bankruptcy Case,other
+412059970,425312315,Auto Discharge of Debtor(s) [Ch 7,other
+412059971,425312316,Auto Discharge of Debtor(s) [Ch 7,other
+412059972,425312317,Auto Discharge of Debtor(s) [Ch 7,other
+412059933,425312278,Auto Discharge of Debtor(s) [Ch 7,other
+412059934,425312279,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059935,425312280,Close Bankruptcy Case,other
+412059936,425312281,Auto Discharge of Debtor(s) [Ch 7,other
+412059937,425312282,Auto Discharge of Debtor(s) [Ch 7,other
+412059938,425312283,Close Bankruptcy Case,other
+412059939,425312284,Auto Discharge of Debtor(s) [Ch 7,other
+412059940,425312285,Auto Discharge of Debtor(s) [Ch 7,other
+412059941,425312286,Close Bankruptcy Case,other
+412059942,425312287,Auto Discharge of Debtor(s) [Ch 7,other
+412059943,425312288,Auto Discharge of Debtor(s) [Ch 7,other
+412059944,425312289,Auto Discharge of Debtor(s) [Ch 7,other
+412059945,425312290,Close Bankruptcy Case,other
+412059946,425312291,Auto Discharge of Debtor(s) [Ch 7,other
+412059947,425312292,Traverse,other
+412059948,425312293,Auto Discharge of Debtor(s) [Ch 7,other
+412059949,425312294,Close Bankruptcy Case,other
+412059950,425312295,EFILED RECEIPT - Voluntary Petition Fee Paid (7) [ADI,other
+412059951,425312296,Auto Discharge of Debtor(s) [Ch 7,other
+412059952,425312297,Auto Discharge of Debtor(s) [Ch 7,other
+412059913,425312258,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059914,425312259,AutoClose Bankruptcy Case (text entry),other
+412059915,425312261,Auto Discharge of Debtor(s) [Ch 7,other
+412059916,425312260,Personal Financial Management Course Requirement Notice,other
+412059917,425312262,Personal Financial Management Course Requirement Notice,other
+412059918,425312263,Auto Discharge of Debtor(s) [Ch 7,other
+412059919,425312264,Close Bankruptcy Case,other
+412059920,425312265,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059921,425312266,Personal Financial Management Course Requirement Notice,other
+412059922,425312267,Auto Discharge of Debtor(s) [Ch 7,other
+412059923,425312269,Personal Financial Management Course Requirement Notice,other
+412059924,425312268,Auto Discharge of Debtor(s) [Ch 7,other
+412059925,425312270,Close Bankruptcy Case,other
+412059926,425312271,Personal Financial Management Course Requirement Notice,other
+412059927,425312272,Auto Discharge of Debtor(s) [Ch 7,other
+412059928,425312273,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059929,425312274,Personal Financial Management Course Requirement Notice,other
+412059930,425312275,Auto Discharge of Debtor(s) [Ch 7,other
+412059931,425312276,Close Bankruptcy Case,other
+412059932,425312277,Auto Discharge of Debtor(s) [Ch 7,other
+412059893,425312238,Close Bankruptcy Case,other
+412059894,425312239,Close Bankruptcy Case,other
+412059895,425312240,Trustee's Motion to Dismiss Case,other
+412059896,425312241,Close Bankruptcy Case,other
+412059897,425312242,Clerk's entry of default,other
+412059898,425312243,Close Bankruptcy Case,other
+412059899,425312244,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059900,425312245,Close Bankruptcy Case,other
+412059901,425312246,Close Bankruptcy Case,other
+412059902,425312247,Notice of Filing Official Transcript (BNC-BK),other
+412059903,425312248,Close Bankruptcy Case,other
+412059904,425312249,none,other
+412059905,425312250,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059906,425312251,Close Bankruptcy Case,other
+412059907,425312253,Notice of Requirement to File Certificate of Financial Management (BNC) (d),other
+412059908,425312252,Close Bankruptcy Case,other
+412059909,425312254,Close Bankruptcy Case,other
+412059910,425312255,Discharge of Debtor(s),other
+412059911,425312256,Personal Financial Management Course Requirement Notice,other
+412059912,425312257,Close Bankruptcy Case,other
+412059873,425312218,,other
+412059874,425312219,,other
+412059875,425312220,,other
+412059876,425312221,,other
+412059877,425312222,,other
+412059878,425312223,,other
+412059879,425312224,,other
+412059880,425312225,,other
+412059881,425312226,,other
+412059882,425312227,,other
+412059883,425312228,Auto Assignment Meeting of Creditors Chapter 7 Individual,other
+412059884,425312229,Reply to Response to Motion,motion
+412059885,425312230,Modify Plan,other
+412059886,425312231,Discharging Chapter 13 Debtor,other
+412059887,425312232,Certificate of Service,other
+412059888,425312233,Close Bankruptcy Case,other
+412059889,425312234,Close Bankruptcy Case,other
+412059890,425312235,Objection to Confirmation of the Plan,other
+412059891,425312236,Close Bankruptcy Case,other
+412059892,425312237,Close Bankruptcy Case,other
+412059853,425312198,Continue-Other,other
+412059854,425312199,,other
+412059855,425312200,,other
+412059856,425312201,,other
+412059857,425312202,,other
+412059858,425312203,,other
+412059859,425312204,,other
+412059860,425312205,,other
+412059861,425312206,,other
+412059862,425312207,,other
+412059863,425312208,,other
+412059864,425312209,,other
+412059865,425312210,,other
+412059866,425312211,,other
+412059867,425312212,,other
+412059868,425312213,,other
+412059869,425312214,,other
+412059870,425312215,,other
+412059871,425312216,,other
+412059872,425312217,,other
+412059833,425312178,,other
+412059834,425312179,,other
+412059835,425312180,,other
+412059836,425312181,,other
+412059837,425312182,,other
+412059838,425312183,,other
+412059839,425312184,,other
+412059840,425312185,,other
+412059841,425312186,,other
+412059842,425312187,,other
+412059843,425312188,,other
+412059844,425312189,,other
+412059845,425312190,,other
+412059846,425312191,Order on Motion to Continue,order
+412059847,425312192,Motion Hearing  AND ~Util - Set/Reset Deadlines/Hearings,other
+412059848,425312193,Sentencing Memorandum,other
+412059849,425312194,Notice - Other,other
+412059850,425312195,Reply Memorandum,motion
+412059851,425312196,Sentencing Memorandum ,other
+412059852,425312197,Extension of Time-Other,other
+412059813,425312156,Denying 13 Confirmation,other
+412059814,425312157,Determination of Plan Completion (o),other
+412059815,425312158,Determination of Plan Completion (o),other
+412059816,425312159,Determination of Plan Completion (o),other
+412059817,425312160,Determination of Plan Completion (o),other
+412059818,425312161,Ntc Final Cure Mortgage Payment APPROVED,other
+412059819,425312162,Order Approving Final Report & Distribution,order
+412059820,425312163,Petition Removal,motion
+412059821,425312166,,other
+412059822,425312167,,other
+412059823,425312168,,other
+412059824,425312169,,other
+412059825,425312170,,other
+412059826,425312171,,other
+412059827,425312172,,other
+412059828,425312173,,other
+412059829,425312174,,other
+412059830,425312175,,other
+412059831,425312176,,other
+412059832,425312177,,other
+412059793,425312136,Denying 13 Confirmation,other
+412059794,425312137,Denying 13 Confirmation,other
+412059795,425312138,Denying 13 Confirmation,other
+412059796,425312139,Denying 13 Confirmation,other
+412059797,425312140,Denying 13 Confirmation,other
+412059798,425312142,Notice (Other),other
+412059799,425312141,Denying 13 Confirmation,other
+412059800,425312143,Denying 13 Confirmation,other
+412059801,425312144,Miscellaneous Relief,other
+412059802,425312145,Denying 13 Confirmation,other
+412059803,425312146,Denying 13 Confirmation,other
+412059804,425312147,Denying 13 Confirmation,other
+412059805,425312148,Unseal Document,other
+412059806,425312149,Denying 13 Confirmation,other
+412059807,425312150,Letter Request/Motion,motion
+412059808,425312151,Denying 13 Confirmation,other
+412059809,425312152,Denying 13 Confirmation,other
+412059810,425312153,Denying 13 Confirmation,other
+412059811,425312154,Denying 13 Confirmation,other
+412059812,425312155,Denying 13 Confirmation,other
+412059773,425312084,,other
+412059774,425312085,,other
+412059775,425312086,,other
+412059776,425312087,,other
+412059777,425312088,,other
+412059778,425312119,,other
+412059779,425312120,,other
+412059780,425312121,,other
+412059781,425312122,,other
+412059782,425312123,,other
+412059783,425312124,,other
+412059784,425312127,,other
+412059785,425312128,,other
+412059786,425312129,Notice of Attorney Appearance - Defendant,other
+412059787,425312130,Denying 13 Confirmation,other
+412059788,425312131,Denying 13 Confirmation,other
+412059789,425312132,Denying 13 Confirmation,other
+412059790,425312133,Denying 13 Confirmation,other
+412059791,425312134,Denying 13 Confirmation,other
+412059792,425312135,Denying 13 Confirmation,other
+412059753,425312064,,other
+412059754,425312065,,other
+412059755,425312066,,other
+412059756,425312105,,other
+412059757,425312106,,other
+412059758,425312107,,other
+412059759,425312108,,other
+412059760,425312109,,other
+412059761,425312072,,other
+412059762,425312110,,other
+412059763,425312074,,other
+412059764,425312111,,other
+412059765,425312112,,other
+412059766,425312113,,other
+412059767,425312114,,other
+412059768,425312115,,other
+412059769,425312116,,other
+412059770,425312117,,other
+412059771,425312118,,other
+412059772,425312083,,other
+412059733,425311956,,other
+412059734,425311957,,other
+412059735,425311958,,other
+412059736,425311959,,other
+412059737,425311962,,other
+412059738,425311963,,other
+412059739,425311964,,other
+412059740,425311965,,other
+412059741,425311966,,other
+412059742,425311967,,other
+412059743,425311968,,other
+412059744,425312019,,other
+412059745,425312020,,other
+412059746,425312021,,other
+412059747,425312022,,other
+412059748,425312033,Letter,other
+412059749,425312050,,other
+412059750,425312061,,other
+412059751,425312062,,other
+412059752,425312063,,other
+412059713,425311936,Close Bankruptcy Case,other
+412059714,425311937,Close Bankruptcy Case,other
+412059715,425311938,Close Bankruptcy Case,other
+412059716,425311939,Close Bankruptcy Case,other
+412059717,425311940,Close Bankruptcy Case,other
+412059718,425311941,Close Bankruptcy Case,other
+412059719,425311942,Close Bankruptcy Case,other
+412059720,425311943,Close Bankruptcy Case,other
+412059721,425311944,Close Bankruptcy Case,other
+412059722,425311945,Close Bankruptcy Case,other
+412059723,425311946,Close Bankruptcy Case,other
+412059724,425311947,Close Bankruptcy Case,other
+412059725,425311948,Close Bankruptcy Case,other
+412059726,425311949,Close Bankruptcy Case,other
+412059727,425311950,Close Bankruptcy Case,other
+412059728,425311951,Close Bankruptcy Case,other
+412059729,425311952,Close Bankruptcy Case,other
+412059730,425311953,,other
+412059731,425311954,,other
+412059732,425311955,,other
