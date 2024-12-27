@@ -176,5 +176,6 @@ if __name__ == "__main__":
                     else:
                         print(f"Huh? I don't know what '{response}' means.")
                         instruct()
+                print()
 
         add_label(de_id, doc_id, description, label)
