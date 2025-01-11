@@ -39,7 +39,7 @@ isort = "^5.11.5"
 mypy = "^0.991"
 pylint = "^2.13.9"
 wheel = "^0.45.1"
-pre-commit = "^2.21.0"
+pre-commit = "^4.0.1"
 flynt = "^0.77"
 
 [tool.black]
