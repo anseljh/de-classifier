@@ -4,11 +4,11 @@ Experimental docket-entry classifiers.
 
 ## Key files
 
-- `labeled.csv`: The data file.
-- `labels.json`: JSON file with labels and their hotkeys for the interactive labeler
+- `output3.csv`: The data file.
+- `labels3.json`: JSON file with a list of the labels we're applying.
 - `de_classifier/`
-  - `classify.py`: Runs classifiers.
-  - `labeler.py`: Interactive, terminal-based data labeler. Plow through hundreds of docket entries quickly! Picks up where you left off, and skips identical entries.
+  - `classify3.py`: Runs classifiers.
+  - `labeler3.py`: Interactive, terminal-based data labeler. Plow through hundreds of docket entries quickly! Picks up where you left off, skips identical entries, and auto-completes label names as you start typing.
 
 ## License
 
