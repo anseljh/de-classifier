@@ -30,6 +30,7 @@ requests = "^2.32.3"
 nltk = "^3.9.1"
 pandas = "^2.2.3"
 scikit-learn = "^1.6.0"
+prompt-toolkit = "^3.0.48"
 
 [tool.poetry.dev-dependencies]
 black = "^23.1.0"

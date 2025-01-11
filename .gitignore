@@ -170,3 +170,7 @@ options.json
 response.json
 response.json.html
 docket_entries.csv
+dockets.json
+entries.json
+next.json
+output3.csv
