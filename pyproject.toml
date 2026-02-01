@@ -28,7 +28,7 @@ version = "0.0.1"
 python = "^3.11"
 requests = "^2.32.4"
 nltk = "^3.9.1"
-pandas = "^2.2.3"
+pandas = "^3.0.0"
 scikit-learn = "^1.6.0"
 prompt-toolkit = "^3.0.48"
 
